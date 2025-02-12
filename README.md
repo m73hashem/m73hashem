@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hi, I'm [Your Name]  
 
-<!--
-**m73hashem/m73hashem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Odoo & Python Developer | ERP Specialist | Open-Source Enthusiast**  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Odoo customization and ERP solutions**.  
+- 🌱 I’m learning **advanced Odoo module development**.  
+- 💡 Passionate about **automation, business process optimization, and open-source projects**.  
+- 💬 Ask me about **Python, Odoo, PostgreSQL, and ERP solutions**.  
+- 📫 How to reach me: [m73.hashem@gmail.com](mailto:m73.hashem@gmail.com)  
+- ⚡ Fun fact: I love **debugging & solving complex business logic**!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+✔ **Languages**: Python, JavaScript, XML, C, C++ 
+✔ **ERP**: Odoo (Framework, Modules, Customization)  
+✔ **Databases**: PostgreSQL, MySQL  
+✔ **Other**: Git, Linux, Docker  
+
+## 📌 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mahmoudhashem)  
+[![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)](https://github.com/m73hashem)  
+
+---
+⭐ **Show some love by starring my repos!** ⭐  
