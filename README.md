@@ -1,19 +1,29 @@
-# 👋 Hi, I'm Mahmoud Hashem  
+# Hi, I'm Mahmoud Hashem 👋
 
-🚀 **Odoo & Python Developer | ERP Specialist | Open-Source Enthusiast**  
+**AI & Automation Engineer | Python Backend Developer**
 
-- 🔭 I’m currently working on **Odoo customization and ERP solutions**.  
-- 🌱 I’m learning **advanced Odoo module development**.  
-- 💡 Passionate about **automation, business process optimization, and open-source projects**.  
-- 💬 Ask me about **Python, Odoo, PostgreSQL, and ERP solutions**.  
-- 📫 How to reach me: [m73.hashem@gmail.com](mailto:m73.hashem@gmail.com)  
-- ⚡ Fun fact: I love **debugging & solving complex business logic**!  
+I build practical software systems that combine **Python, AI, APIs, and workflow automation** to solve real-world problems.
 
-## 🛠 Tech Stack  
-✔ **Languages**: Python, JavaScript, XML, C, C++ 
-✔ **ERP**: Odoo (Framework, Modules, Customization)  
-✔ **Databases**: PostgreSQL, MySQL  
-✔ **Other**: Git, Linux, Docker  
+### 🧠 What I Work With
+
+- 🐍 **Python** · Django · FastAPI · Flask
+- 🤖 **AI & LLMs** · AI Agents · RAG · LangChain · LangGraph
+- ⚙️ **Automation** · n8n · Webhooks · API Integrations
+- 🗄️ **Backend & Data** · REST APIs · PostgreSQL · SQL
+- 🔌 **AI Integrations** · OpenAI · Gemini · Third-party APIs
+- 🐳 **Tools & Infrastructure** · Docker · Git · GitHub Actions · Linux
+
+### 🚀 What I Build
+
+- AI-powered applications and intelligent agents
+- Backend services and RESTful APIs
+- Automated business workflows
+- LLM-powered systems and RAG pipelines
+- Integrations between AI, business systems, and external APIs
+
+I’m interested in building **reliable, maintainable, and useful software**, with a focus on backend engineering, AI systems, and automation.
+
+📫 **Portfolio:** [mahmoudhashem.com/portfolio](https://mahmoudhashem.com/portfolio) 
 
 ## 📌 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mahmoudhashem)  
